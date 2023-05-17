@@ -1,0 +1,17 @@
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C__OOP.model.Res.resources
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\bin\Debug\net6.0\C#_OOP.exe
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\bin\Debug\net6.0\C#_OOP.deps.json
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\bin\Debug\net6.0\C#_OOP.runtimeconfig.json
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\bin\Debug\net6.0\C#_OOP.dll
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\bin\Debug\net6.0\C#_OOP.pdb
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.dll
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\refint\C#_OOP.dll
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.pdb
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\C#_OOP.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Máy tính\C#_OOP\obj\Debug\net6.0\ref\C#_OOP.dll
